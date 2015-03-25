@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/test/Desktop/voicerecognition/app/build/intermediates/pre-dexed/debug/gson-2.3-5d25b9969ab9315715d02fd516a8c8d8a981043c.jar"
+        jar="/Users/test/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce"/>
+    <item
+        dex="/Users/test/Desktop/voicerecognition/app/build/intermediates/pre-dexed/debug/commons-io-2.4-d43c245afeba8dfd6c454db115674d7dd810f778.jar"
+        jar="/Users/test/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad"/>
+    <item
+        dex="/Users/test/Desktop/voicerecognition/app/build/intermediates/pre-dexed/debug/classes-e780dd1c148b6f4dfebcb94fff130252840aa280.jar"
+        jar="/Users/test/Desktop/voicerecognition/app/build/intermediates/exploded-aar/ai.api/sdk/1.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="770c25bef0940babaf027c69f07c6760704a8f3f"/>
+
+</pre-dex-items>
